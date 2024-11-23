@@ -5,7 +5,7 @@ edition = "2021"
 
 description = "A library to colorize and format terminal text, allowing changes like bold, italic, and background colors."
 license = "MIT"
-authors = ["pablo"]  # Replace with your name and email
-repository = "https://github.com/mnsdojo/txtly"  # Replace with your repository URL
+authors = ["pablo"] 
+repository = "https://github.com/mnsdojo/txtly"  
 
 [dependencies]
